@@ -14,7 +14,7 @@ A comprehensive view of Adidas US sales across products, retailers, purchase met
 -	Which geographic regions have the highest and lowest sales?
 -	What is the profit contribution of each product category?
 
-- <a href="https://github.com/Fathimathu-swafa/-Adidas_US_Sales_Analysis_Dashboard/blob/main/Sales%20Dashboard.png">Dashboard</a>
+- <a href="https://github.com/Fathimathu-swafa/-Adidas_US_Sales_Analysis_Dashboard/blob/main/Sales%20Report.png">Dashboard</a>
 
 ## Data Processing
 -	Removed missing and duplicate entries
